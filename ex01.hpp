@@ -4,5 +4,5 @@
 template <typename WhatKind>
 void multiples (WhatKind& sum, WhatKind x, int n)
 {
-    sum = 1 + x*(n+1)*n/2
+    sum = 1 + x*(n+1)*n/2;
 }
